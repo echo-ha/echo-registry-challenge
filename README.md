@@ -1,4 +1,4 @@
-# 🚀 Full Stack Home Assignment: Registry UI Challenge
+# 🚀 Full Stack Engineer Technical Assignment: Registry UI Challenge
 
 Welcome to the "Registry UI Challenge!"  
 Your mission: create a simplified UI experience similar to DockerHub. You'll explore DockerHub's public APIs on your own and use them to build a polished, functional web app.  
@@ -46,9 +46,7 @@ Build a small but complete frontend application that consumes DockerHub's public
 
 ## 🧠 Product Thinking
 
-We expect you to treat this as a real product: think about what a user would need beyond the list above, and tell us what you added and why. Product judgment is part of the evaluation.  
-
-Using AI tools is fine and expected — we care about the decisions behind the result.
+We expect you to treat this as a real product: think about what a user would need beyond the list above, and tell us what you added and why.  
 
 ---
 
@@ -65,15 +63,31 @@ Using AI tools is fine and expected — we care about the decisions behind the r
    - Challenges or lessons learned.  
    - What you'd improve with more time.  
 
+You'll walk us through your work in your technical interview.
+
 ---
 
-## 💡 Reminder
+## 💡 Reminders
 
 - Part of the assignment is API exploration – show us how you approach discovering and integrating external APIs.  
 - Prioritize clarity, maintainability, and a nice-looking UI.  
-- Handle UX gracefully (loading states, errors, empty results).  
+- Handle UX gracefully (loading states, errors, empty results).
+- Focus on quality of reasoning over volume.
+- Don't make this production-grade; you can do things that don't scale.
+- AI tools are welcome. Tell us what you used them for and where they helped or hurt.
+- If you hit a wall, write down what you tried and move on.
 
 ---
 
-Have fun! For all questions and clarifications – don't hesitate to reach out 🙂  
-Good luck! 🚀
+## 🚢 Submission
+
+- Create a fork of this repository and give access to your fork
+- Once you notify that you are done, no more commits!
+
+---
+
+## ❓ Questions
+
+Have fun! For any question or clarification, reach out without a second thought 🙂
+
+**Echo Team**
